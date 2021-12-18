@@ -1,0 +1,13 @@
+Dec 18th, 2021.
+
+So far, I plan to perform MD simulations on all aptamer structures available on the aptamer database website. After simulations finished, some kinds of physical properties analyzed and serve as machine learning samples for further prediction.
+Besides MD simulations, Rosetta might also be applied to this procedure, but I'm quite familar with this tool at this moment, further explorations are needed.
+
+Flow chart so far:
+
+Aptamer structure ==> MD simulations ==> Physical properties (eg. Potential distribution, charge distribution) ==> Relation with Protein ==> Machine learning.
+
+Apatmer structure prediction:
+Protein structure ==> Machine learning results ==> Aptamer structure
+
+To be continued...
