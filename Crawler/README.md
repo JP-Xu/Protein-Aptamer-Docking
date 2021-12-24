@@ -8,7 +8,6 @@ This crawler saves html locally in order to prevent too many requests to the ser
 
 ## Packages for crawler
 
-1.
-2.
-3.
-4.
+requests, os, bs4, re, time, pandas
+
+### 
